@@ -11,5 +11,5 @@ nome = "LidjaSoares"
 print(nome)
 
 # Input
-idade = input('36:')
+idade = input(36)
 print(idade)
